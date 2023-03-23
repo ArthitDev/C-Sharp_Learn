@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\bin\Debug\DataStructureApp.exe.config
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\bin\Debug\DataStructureApp.exe
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\bin\Debug\DataStructureApp.pdb
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\obj\Debug\DataStructureApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\obj\Debug\DataStructureApp.Form1.resources
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\obj\Debug\DataStructureApp.Properties.Resources.resources
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\obj\Debug\DataStructureApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\obj\Debug\DataStructureApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\obj\Debug\DataStructureApp.exe
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\obj\Debug\DataStructureApp.pdb
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\obj\Debug\DataStructureApp.Form2.resources
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\obj\Debug\DataStructureApp.Form3.resources
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\obj\Debug\DataStructureApp.Form4.resources
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\obj\Debug\DataStructureApp.fullname.resources
+C:\Users\User\source\repos\DataStructureApp\DataStructureApp\obj\Debug\DataStructureApp.Form6.resources

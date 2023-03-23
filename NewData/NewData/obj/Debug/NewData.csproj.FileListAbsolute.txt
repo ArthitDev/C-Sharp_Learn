@@ -1,0 +1,11 @@
+C:\Users\Athid\Documents\C#\NewData\NewData\bin\Debug\NewData.exe.config
+C:\Users\Athid\Documents\C#\NewData\NewData\bin\Debug\NewData.exe
+C:\Users\Athid\Documents\C#\NewData\NewData\bin\Debug\NewData.pdb
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\NewData.csproj.AssemblyReference.cache
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\NewData.Properties.Resources.resources
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\NewData.csproj.GenerateResource.cache
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\NewData.csproj.CoreCompileInputs.cache
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\NewData.exe
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\NewData.pdb
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\NewData.Form1.resources
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\NewData.csproj.SuggestedBindingRedirects.cache

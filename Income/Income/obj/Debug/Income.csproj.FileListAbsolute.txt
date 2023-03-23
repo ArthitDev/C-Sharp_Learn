@@ -1,0 +1,10 @@
+C:\Users\Arthit LungYa\Documents\C#\Income\Income\bin\Debug\Income.exe.config
+C:\Users\Arthit LungYa\Documents\C#\Income\Income\bin\Debug\Income.exe
+C:\Users\Arthit LungYa\Documents\C#\Income\Income\bin\Debug\Income.pdb
+C:\Users\Arthit LungYa\Documents\C#\Income\Income\obj\Debug\Income.csprojAssemblyReference.cache
+C:\Users\Arthit LungYa\Documents\C#\Income\Income\obj\Debug\Income.Properties.Resources.resources
+C:\Users\Arthit LungYa\Documents\C#\Income\Income\obj\Debug\Income.csproj.GenerateResource.cache
+C:\Users\Arthit LungYa\Documents\C#\Income\Income\obj\Debug\Income.csproj.CoreCompileInputs.cache
+C:\Users\Arthit LungYa\Documents\C#\Income\Income\obj\Debug\Income.exe
+C:\Users\Arthit LungYa\Documents\C#\Income\Income\obj\Debug\Income.pdb
+C:\Users\Arthit LungYa\Documents\C#\Income\Income\obj\Debug\Income.Form1.resources

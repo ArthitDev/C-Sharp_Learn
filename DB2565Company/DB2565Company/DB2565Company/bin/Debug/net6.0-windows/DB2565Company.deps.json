@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DB2565Company/1.0.0": {
+        "runtime": {
+          "DB2565Company.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DB2565Company/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

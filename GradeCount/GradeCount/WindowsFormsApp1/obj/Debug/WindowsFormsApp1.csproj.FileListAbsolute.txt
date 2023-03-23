@@ -1,0 +1,22 @@
+C:\Users\Arthit LungYa\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Arthit LungYa\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Arthit LungYa\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Arthit LungYa\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Arthit LungYa\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GradeCount.resources
+C:\Users\Arthit LungYa\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Arthit LungYa\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Arthit LungYa\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Arthit LungYa\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Arthit LungYa\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Arthit LungYa\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Survey.resources
+C:\Users\Athid\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Athid\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Athid\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Athid\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Athid\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GradeCount.resources
+C:\Users\Athid\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Survey.resources
+C:\Users\Athid\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Athid\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Athid\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Athid\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Athid\Documents\C#\GradeCount\GradeCount\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

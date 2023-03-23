@@ -1,0 +1,31 @@
+C:\Users\Arthit LungYa\Documents\C#\GradeCalulate\GradeCalulate\bin\Debug\GradeCalulate.exe.config
+C:\Users\Arthit LungYa\Documents\C#\GradeCalulate\GradeCalulate\bin\Debug\GradeCalulate.exe
+C:\Users\Arthit LungYa\Documents\C#\GradeCalulate\GradeCalulate\bin\Debug\GradeCalulate.pdb
+C:\Users\Arthit LungYa\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.csprojAssemblyReference.cache
+C:\Users\Arthit LungYa\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.Form1.resources
+C:\Users\Arthit LungYa\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.Properties.Resources.resources
+C:\Users\Arthit LungYa\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.csproj.GenerateResource.cache
+C:\Users\Arthit LungYa\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.csproj.CoreCompileInputs.cache
+C:\Users\Arthit LungYa\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.exe
+C:\Users\Arthit LungYa\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.pdb
+C:\Users\Athid\Documents\C#\GradeCalulate\GradeCalulate\bin\Debug\GradeCalulate.exe.config
+C:\Users\Athid\Documents\C#\GradeCalulate\GradeCalulate\bin\Debug\GradeCalulate.exe
+C:\Users\Athid\Documents\C#\GradeCalulate\GradeCalulate\bin\Debug\GradeCalulate.pdb
+C:\Users\Athid\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.csproj.AssemblyReference.cache
+C:\Users\Athid\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.Form1.resources
+C:\Users\Athid\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.Properties.Resources.resources
+C:\Users\Athid\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.csproj.GenerateResource.cache
+C:\Users\Athid\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.csproj.CoreCompileInputs.cache
+C:\Users\Athid\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.exe
+C:\Users\Athid\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.pdb
+C:\Users\ArthitPC\Documents\C#\GradeCalulate\GradeCalulate\bin\Debug\GradeCalulate.exe.config
+C:\Users\ArthitPC\Documents\C#\GradeCalulate\GradeCalulate\bin\Debug\GradeCalulate.exe
+C:\Users\ArthitPC\Documents\C#\GradeCalulate\GradeCalulate\bin\Debug\GradeCalulate.pdb
+C:\Users\ArthitPC\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.csproj.AssemblyReference.cache
+C:\Users\ArthitPC\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.csproj.SuggestedBindingRedirects.cache
+C:\Users\ArthitPC\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.Form1.resources
+C:\Users\ArthitPC\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.Properties.Resources.resources
+C:\Users\ArthitPC\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.csproj.GenerateResource.cache
+C:\Users\ArthitPC\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.csproj.CoreCompileInputs.cache
+C:\Users\ArthitPC\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.exe
+C:\Users\ArthitPC\Documents\C#\GradeCalulate\GradeCalulate\obj\Debug\GradeCalulate.pdb

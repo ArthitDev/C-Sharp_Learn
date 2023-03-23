@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Browse_Picture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DB_641413017.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grid_DB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Picturebox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

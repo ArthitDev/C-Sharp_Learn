@@ -1,0 +1,18 @@
+C:\Users\Arthit LungYa\Documents\C#\PiramidTest\PiramidTest\bin\Debug\PiramidTest.exe.config
+C:\Users\Arthit LungYa\Documents\C#\PiramidTest\PiramidTest\bin\Debug\PiramidTest.exe
+C:\Users\Arthit LungYa\Documents\C#\PiramidTest\PiramidTest\bin\Debug\PiramidTest.pdb
+C:\Users\Arthit LungYa\Documents\C#\PiramidTest\PiramidTest\obj\Debug\PiramidTest.csproj.AssemblyReference.cache
+C:\Users\Arthit LungYa\Documents\C#\PiramidTest\PiramidTest\obj\Debug\PiramidTest.Properties.Resources.resources
+C:\Users\Arthit LungYa\Documents\C#\PiramidTest\PiramidTest\obj\Debug\PiramidTest.csproj.GenerateResource.cache
+C:\Users\Arthit LungYa\Documents\C#\PiramidTest\PiramidTest\obj\Debug\PiramidTest.csproj.CoreCompileInputs.cache
+C:\Users\Arthit LungYa\Documents\C#\PiramidTest\PiramidTest\obj\Debug\PiramidTest.exe
+C:\Users\Arthit LungYa\Documents\C#\PiramidTest\PiramidTest\obj\Debug\PiramidTest.pdb
+C:\Users\Athid\Documents\C#\PiramidTest\PiramidTest\bin\Debug\PiramidTest.exe.config
+C:\Users\Athid\Documents\C#\PiramidTest\PiramidTest\bin\Debug\PiramidTest.exe
+C:\Users\Athid\Documents\C#\PiramidTest\PiramidTest\bin\Debug\PiramidTest.pdb
+C:\Users\Athid\Documents\C#\PiramidTest\PiramidTest\obj\Debug\PiramidTest.csproj.AssemblyReference.cache
+C:\Users\Athid\Documents\C#\PiramidTest\PiramidTest\obj\Debug\PiramidTest.Properties.Resources.resources
+C:\Users\Athid\Documents\C#\PiramidTest\PiramidTest\obj\Debug\PiramidTest.csproj.GenerateResource.cache
+C:\Users\Athid\Documents\C#\PiramidTest\PiramidTest\obj\Debug\PiramidTest.csproj.CoreCompileInputs.cache
+C:\Users\Athid\Documents\C#\PiramidTest\PiramidTest\obj\Debug\PiramidTest.exe
+C:\Users\Athid\Documents\C#\PiramidTest\PiramidTest\obj\Debug\PiramidTest.pdb

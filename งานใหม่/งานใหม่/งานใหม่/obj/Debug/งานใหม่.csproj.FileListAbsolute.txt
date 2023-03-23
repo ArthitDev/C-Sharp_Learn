@@ -1,0 +1,20 @@
+C:\Users\Arthit LungYa\Documents\C#\งานใหม่\งานใหม่\งานใหม่\bin\Debug\งานใหม่.exe.config
+C:\Users\Arthit LungYa\Documents\C#\งานใหม่\งานใหม่\งานใหม่\bin\Debug\งานใหม่.exe
+C:\Users\Arthit LungYa\Documents\C#\งานใหม่\งานใหม่\งานใหม่\bin\Debug\งานใหม่.pdb
+C:\Users\Arthit LungYa\Documents\C#\งานใหม่\งานใหม่\งานใหม่\obj\Debug\งานใหม่.csproj.AssemblyReference.cache
+C:\Users\Arthit LungYa\Documents\C#\งานใหม่\งานใหม่\งานใหม่\obj\Debug\งานใหม่.Properties.Resources.resources
+C:\Users\Arthit LungYa\Documents\C#\งานใหม่\งานใหม่\งานใหม่\obj\Debug\งานใหม่.csproj.GenerateResource.cache
+C:\Users\Arthit LungYa\Documents\C#\งานใหม่\งานใหม่\งานใหม่\obj\Debug\งานใหม่.csproj.CoreCompileInputs.cache
+C:\Users\Arthit LungYa\Documents\C#\งานใหม่\งานใหม่\งานใหม่\obj\Debug\งานใหม่.exe
+C:\Users\Arthit LungYa\Documents\C#\งานใหม่\งานใหม่\งานใหม่\obj\Debug\งานใหม่.pdb
+C:\Users\Arthit LungYa\Documents\C#\งานใหม่\งานใหม่\งานใหม่\obj\Debug\งานใหม่.NewWork.resources
+C:\Users\Arthit_PC\Documents\C#\งานใหม่\งานใหม่\งานใหม่\bin\Debug\งานใหม่.exe.config
+C:\Users\Arthit_PC\Documents\C#\งานใหม่\งานใหม่\งานใหม่\bin\Debug\งานใหม่.exe
+C:\Users\Arthit_PC\Documents\C#\งานใหม่\งานใหม่\งานใหม่\bin\Debug\งานใหม่.pdb
+C:\Users\Arthit_PC\Documents\C#\งานใหม่\งานใหม่\งานใหม่\obj\Debug\งานใหม่.csproj.AssemblyReference.cache
+C:\Users\Arthit_PC\Documents\C#\งานใหม่\งานใหม่\งานใหม่\obj\Debug\งานใหม่.NewWork.resources
+C:\Users\Arthit_PC\Documents\C#\งานใหม่\งานใหม่\งานใหม่\obj\Debug\งานใหม่.Properties.Resources.resources
+C:\Users\Arthit_PC\Documents\C#\งานใหม่\งานใหม่\งานใหม่\obj\Debug\งานใหม่.csproj.GenerateResource.cache
+C:\Users\Arthit_PC\Documents\C#\งานใหม่\งานใหม่\งานใหม่\obj\Debug\งานใหม่.csproj.CoreCompileInputs.cache
+C:\Users\Arthit_PC\Documents\C#\งานใหม่\งานใหม่\งานใหม่\obj\Debug\งานใหม่.exe
+C:\Users\Arthit_PC\Documents\C#\งานใหม่\งานใหม่\งานใหม่\obj\Debug\งานใหม่.pdb

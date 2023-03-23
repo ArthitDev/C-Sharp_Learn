@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\WindowsFormsApp2564\WindowsFormsApp2564\bin\Debug\WindowsFormsApp2564.exe.config
+C:\Users\User\source\repos\WindowsFormsApp2564\WindowsFormsApp2564\bin\Debug\WindowsFormsApp2564.exe
+C:\Users\User\source\repos\WindowsFormsApp2564\WindowsFormsApp2564\bin\Debug\WindowsFormsApp2564.pdb
+C:\Users\User\source\repos\WindowsFormsApp2564\WindowsFormsApp2564\obj\Debug\WindowsFormsApp2564.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp2564\WindowsFormsApp2564\obj\Debug\WindowsFormsApp2564.Form1.resources
+C:\Users\User\source\repos\WindowsFormsApp2564\WindowsFormsApp2564\obj\Debug\WindowsFormsApp2564.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp2564\WindowsFormsApp2564\obj\Debug\WindowsFormsApp2564.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp2564\WindowsFormsApp2564\obj\Debug\WindowsFormsApp2564.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp2564\WindowsFormsApp2564\obj\Debug\WindowsFormsApp2564.exe
+C:\Users\User\source\repos\WindowsFormsApp2564\WindowsFormsApp2564\obj\Debug\WindowsFormsApp2564.pdb
+C:\Users\User\source\repos\WindowsFormsApp2564\WindowsFormsApp2564\obj\Debug\WindowsFormsApp2564.Form2.resources

@@ -1,0 +1,11 @@
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\LeapYear.csproj.AssemblyReference.cache
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\LeapYear.csproj.SuggestedBindingRedirects.cache
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\NewData.LeapYear.resources
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\LeapYear.csproj.GenerateResource.cache
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Athid\Documents\C#\NewData\NewData\bin\Debug\LeapYear.exe.config
+C:\Users\Athid\Documents\C#\NewData\NewData\bin\Debug\LeapYear.exe
+C:\Users\Athid\Documents\C#\NewData\NewData\bin\Debug\LeapYear.pdb
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\LeapYear.Properties.Resources.resources
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\LeapYear.exe
+C:\Users\Athid\Documents\C#\NewData\NewData\obj\Debug\LeapYear.pdb

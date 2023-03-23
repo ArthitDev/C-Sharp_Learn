@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\DataStructureDemo\DataStructureDemo\bin\Debug\DataStructureDemo.dll
+C:\Users\User\source\repos\DataStructureDemo\DataStructureDemo\bin\Debug\DataStructureDemo.pdb
+C:\Users\User\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\DataStructureDemo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\DataStructureDemo.Array_Test.resources
+C:\Users\User\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\DataStructureDemo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\DataStructureDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\DataStructureDemo.dll
+C:\Users\User\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\DataStructureDemo.pdb
